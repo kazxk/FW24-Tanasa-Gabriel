@@ -1,0 +1,43 @@
+{
+    "idComanda": 1,
+    "numarulProduselor": 3,
+    "idCont": 1,
+    "cont": {
+      "idCont": 1,
+      "username": "George123",
+      "parola": "1234Abc",
+      "email": "lol@gmail.com",
+      "telefon": "12112211",
+      "adresa": "str 1, constanta, jud constanta"
+    },
+    "idRestaurant": 1,
+    "restaurant": {
+      "idRestaurant": 1,
+      "nume": "McDonalds",
+      "adresa": "Adresa McDonalds",
+      "produse": [
+        {
+          "idProdus": 1,
+          "nume": "Cartofi Prajiti Portie mica",
+          "pret": 5,
+          "idRestaurant": 1
+          "restaurant": {
+
+          }
+        },
+        {
+          "idProdus": 2,
+          "nume": "Meniu Big Mac",
+          "pret": 15,
+          "idRestaurant": 1
+        },
+        {
+          "idProdus": 3,
+          "nume": "Coca Cola",
+          "pret": 3,
+          "idRestaurant": 1
+        }
+      ]
+    }
+  }
+  
